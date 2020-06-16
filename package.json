@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Djarrieta/NodeJs.git"
+  },
+  "keywords": [
+    "nodeJs",
+    "javascript"
+  ],
+  "author": "Dario Arrieta Dja.Red",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djarrieta/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Djarrieta/NodeJs#readme"
+}
